@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "64a6ced8418a402bfc2847e2"
+  },
+  "name": "Meat Pizza",
+  "ingredients": "Mixed Pizza",
+  "price": "8.30",
+  "image": "meatPizza",
+  "categories": "64a8153ef10ff303105119b6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6cf1c418a402bfc2847e4"
+  },
+  "name": "Cheese Pizza",
+  "ingredients": "Cheese Pizza",
+  "price": "7.10",
+  "image": "cheesePizza",
+  "categories": "64a8153ef10ff303105119b6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6e40d4be8743b98e6b95e"
+  },
+  "name": "Chicken Burger",
+  "ingredients": "Fried Chicken",
+  "price": "5.10",
+  "image": "chickenBurger",
+  "categories": "64a81547f10ff303105119b8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6e42f4be8743b98e6b960"
+  },
+  "name": "Sushi Makizushi",
+  "ingredients": "Salmon Meat",
+  "price": "9.55",
+  "image": "sushiMakizushi",
+  "categories": "64a81551f10ff303105119ba",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6e4374be8743b98e6b962"
+  },
+  "name": "Sushi Makizushi",
+  "ingredients": "Salmon Meat",
+  "price": "9.55",
+  "image": "sushiMakizushi",
+  "categories": "64a81551f10ff303105119ba",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6e4374be8743b98e6b964"
+  },
+  "name": "Sushi Makizushi",
+  "ingredients": "Salmon Meat",
+  "price": "9.55",
+  "image": "sushiMakizushi",
+  "categories": "64a81551f10ff303105119ba",
+  "__v": 0
+}]

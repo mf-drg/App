@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "64a8153ef10ff303105119b6"
+  },
+  "name": "Pizza",
+  "image": "pizza",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a81547f10ff303105119b8"
+  },
+  "name": "Burger",
+  "image": "burger",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a81551f10ff303105119ba"
+  },
+  "name": "Sushi",
+  "image": "sushi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a8155bf10ff303105119bc"
+  },
+  "name": "Salad",
+  "image": "salad",
+  "__v": 0
+}]

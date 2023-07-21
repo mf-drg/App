@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "64aad831ce55c0521846874c"
+  },
+  "idProduct": [
+    "64a6e40d4be8743b98e6b95e",
+    "64a6ced8418a402bfc2847e2",
+    "64a6e42f4be8743b98e6b960",
+    "64a6e4374be8743b98e6b964"
+  ],
+  "userName": "admin",
+  "__v": 0
+}]
